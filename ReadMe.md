@@ -1,0 +1,1 @@
+This template was inspired by the "functional-samples/tutorial.hello-world" project from [GoogleChrome](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/tutorial.hello-world).
